@@ -1,4 +1,4 @@
-# range container emulator for c++
+range container emulator/dummy:
 
       for(int i : range<int>(10, 45))  
       {
